@@ -10,4 +10,4 @@
 
 
 
-[Google](www.google.com)
+Link Test inline: [Google](www.google.com)
