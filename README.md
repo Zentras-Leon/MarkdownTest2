@@ -10,4 +10,14 @@
 
 
 
-Link Test inline: [Google](www.google.com)
+Link Test inline: [Google](https://www.google.com)
+
+[Youtube](https://www.youtube.com)
+
+**Hallo**
+
+Die ist ein **Test**
+
+'Testing2'
+
+Dies ist ein weiterer 'Test'
