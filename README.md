@@ -18,6 +18,6 @@ Link Test inline: [Google](https://www.google.com)
 
 Die ist ein **Test**
 
-'Testing2'
+`Testing`
 
-Dies ist ein weiterer 'Test'
+Dies ist ein weiterer `Test`
