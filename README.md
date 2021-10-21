@@ -1,3 +1,5 @@
-Dies ist ein Test
+Hallo dies ist ein Test.
 
-Dies ist noch ein **Test**
+
+
+[!chaynsLogo]
