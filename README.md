@@ -1,3 +1,16 @@
+| Name                                          | Adresse                                              | Default            | Required |
+| --------------------------------------------- | ---------------------------------------------------- | ------------------ | :------: |
+| [head](#head)                                 | `ReactNode \| { open: ReactNode, close: ReactNode }` |                    |    ✓     |
+| [headMultiline](#headmultiline)               | `boolean`                                            | `false`            |          |
+| [headClassNames](#headclassnames)             | `string \| Array<string> \| object`                  |                    |          |
+| [headCustomAttributes](#headcustomattributes) | `object`                                             |                    |          |
+| [children](#children)                         | `ReactNode`                                          |                    |    ✓     |
 
-Testing this a lot more ![Logo](https://staging.tsimg.cloud/60038-22141/82618e6674aec7e4f468435c7b04d7f1f265b9c6.png?_=1611759000 "Logo")
 
+| Name2                                         | Type2                                                | Default2           | Required2|
+| --------------------------------------------- | ---------------------------------------------------- | ------------------ | :------: |
+| [searchValue](#searchvalue)                   | `string`                                             |                    |          |
+| [removeContentClosed](#removecontentclosed)   | `boolean`                                            | `false`            |          |
+| [onClick](#onclick)                           | `function`                                           |                    |          |
+| [disabled](#disabled)                         | `boolean`                                            | `false`            |          |
+| [controlled](#controlled)                     | `boolean`                                            | `false`            |          |
