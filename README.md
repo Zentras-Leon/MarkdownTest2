@@ -71,11 +71,8 @@ Ok dies ist nun formatiert!
 3. Integer molestie lorem at massa
 
 
+
 1. You can use sequential numbers...
 1. ...or keep all the numbers as `1.`
-
-
-57.foo
-1. bar
 
 
