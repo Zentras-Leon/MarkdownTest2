@@ -57,4 +57,8 @@ Ok dies ist nun formatiert!
 | Antonio | Flüchter |
 | Lukas   | UNBEKANNT|
 
-
+| Name | ID | Adresse   | Alter | Lieblingsfarbe | Wohnort   | Geburtsdatum |
+|------|----|-----------|-------|----------------|-----------|--------------|
+| Olaf | 1  | Norwegen  | 56    | Grün           | Steinfurt | 14.02.2003   |
+| Tim  | 2  | Steinfurt | 20    | G              | Metelen   | 09.06.2000   |
+|      |    |           |       |                |           |              |
