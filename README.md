@@ -31,9 +31,9 @@ Test1 `Test2` Test3
 
 **Normal *Testing* now starting**
 
-**Normal2 *Testing* now *starting***
+**Normal2 *Testing* now starting**
 
-
+Der Baum mit *seinen Grünen **blättern steht ~~im Wald~~ und das** seit vielen* Jahren.
 
 ```html
 
