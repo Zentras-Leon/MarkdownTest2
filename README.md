@@ -62,3 +62,20 @@ Ok dies ist nun formatiert!
 | Olaf | 1  | Norwegen  | 56    | Grün           | Steinfurt | 14.02.2003   |
 | Tim  | 2  | Steinfurt | 20    | G              | Metelen   | 09.06.2000   |
 |      |    |           |       |                |           |              |
+
+# Lists
+## Ordered List
+
+1. Lorem ipsum dolor sit amet
+2. Consectetur adipiscing elit
+3. Integer molestie lorem at massa
+
+
+1. You can use sequential numbers...
+1. ...or keep all the numbers as `1.`
+
+
+57.foo
+1. bar
+
+
