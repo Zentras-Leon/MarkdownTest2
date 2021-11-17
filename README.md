@@ -58,7 +58,7 @@ Ok dies ist nun formatiert!
 
 [Springe zu List](#Lists)
 
-[Springe zu unordered Lists](#Unordered List)
+[Springe zu unordered](#Ordered List)
 
 
 > Und dann sagt ich "cool"!
